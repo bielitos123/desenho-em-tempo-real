@@ -1,0 +1,25 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.note{
+    color: aquamarine;
+}
+
+.copy{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background-color: blueviolet;
+    color: azure;
+    line-height: 3;
+}
+
+canvas{
+    border: 5px solid;
+    border-color: aquamarine;
+    box-shadow: 5px 5 px 5px black;
+}
